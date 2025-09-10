@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Optional REPL history
+.node_repl_history
+
+# Optional eslint cache
+.eslintcache
+
+# Production build files
+build/
+dist/
+
+# Miscellaneous
+.DS_Store
+.env
+.env.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS specific files
+.DS_Store
+
+# Thumbnails
+.thumbnails/
+
+# npm package lock
+package-lock.json
+
+# yarn lock
+yarn.lock
+
+# pnpm lock
+pnpm-lock.yaml
+
+# IDE files
+.idea/
+.vscode/
+
+# other
+*.swp
+*.swo
+*.bak
+*.tmp
+

@@ -1,0 +1,77 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional REPL history
+.node_repl_history
+
+# Optional eslint cache
+.eslintcache
+
+# Production build files
+build/
+dist/
+.next/
+
+# Miscellaneous
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# macOS specific files
+.DS_Store
+
+# Thumbnails
+.thumbnails/
+
+# next.js specific
+.next/
+
+# Vercel
+.vercel/
+
+# local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm package lock
+package-lock.json
+
+# yarn lock
+yarn.lock
+
+# pnpm lock
+pnpm-lock.yaml
+
+# IDE files
+.idea/
+.vscode/
+
+# other
+*.swp
+*.swo
+*.bak
+*.tmp
+
